@@ -7,14 +7,14 @@
 
 ---
 
----
-
 ## 📊 Live GitHub Analytics
 
 <p align="center">
   <!-- Alternative highly reliable dynamic stat tracker -->
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bharath7418&layout=compact&theme=radical" alt="Top Languages" />
+  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bharath7418&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Bharath's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bharath7418&layout=compact&theme=radical" alt="Top Languages" />
+ 
 </p>
 
 <!-- Animated Activity Graph -->
