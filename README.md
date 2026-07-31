@@ -1,5 +1,9 @@
-# Hi, I'm Bharath R! 👋 
-### 🚀 Full-Stack Developer | AI & Data Science Undergraduate | UI/UX Enthusiast
+<div align="center">
+  <h1 style="margin-bottom: 0px; padding-bottom: 0px;">Hey there, I'm Bharath R 👋</h1>
+  <div style="margin-top: -10px; padding-top: 0px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=00C2FF&center=true&width=700&height=45&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Data+Science+Undergrad+%F0%9F%A4%96;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Student+Overall+IIC+Coordinator+%F0%9F%8F%9B%EF%B8%8F;District-Level+Chess+Player+%F0%9F%8B%9F%EF%B8%8F;NSS+Student+Leader+%F0%9F%A4%9D;Senior-Grade+Typist+(ENG+%26+TAM)+%23%EF%B8%8F%E2%83%A3;Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+  </div>
+</div>
 
 <p align="left">
   <a href="https://linkedin.com/in/bharath-r-22a4482a0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>    <a href="mailto:bharatharasan7418@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>    <a href="https://www.Copack.online"><img src="https://img.shields.io/badge/Live_Project-COPACK-FF4500?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="COPACK"></a>
