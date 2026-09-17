@@ -15,8 +15,9 @@
 
 
 <!-- Animated Activity Graph -->
+<!-- Try this updated URL format -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bharath7418/bharath7418/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharath7418&theme=github-dark" width="100%" alt="Activity Graph" />
 </p>
 
 
