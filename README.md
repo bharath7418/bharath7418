@@ -16,7 +16,7 @@
 
 <!-- Animated Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharath7418&theme=github-dark-neon" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharath7418&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 
