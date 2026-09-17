@@ -15,10 +15,9 @@
 
 
 <!-- Animated Activity Graph -->
-<!-- Try this updated URL format -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharath7418&theme=github-dark" width="100%" alt="Activity Graph" />
-</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharath7418&theme=dark" width="100%" alt="GitHub Streak Stats" /></p>
 
 
 <p align="center">
