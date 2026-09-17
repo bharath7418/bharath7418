@@ -16,7 +16,7 @@
 
 <!-- Animated Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharath7418&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/bharath7418/bharath7418/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 
